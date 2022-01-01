@@ -1,7 +1,7 @@
 name: Pandaz
 main: Zinkil\pc\Core
 version: 1.0.0
-api: 3.0.0
+api: 4.0.4
 author: Zinkil
 description: "The Official Core Of The MCPE Practice Server Pandaz"
 
